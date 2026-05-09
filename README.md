@@ -6,9 +6,8 @@ QuickPay Fintech Data Analyst Assignment
 | Field | Value |
 |---|---|
 | Student Name | Yalleni Elango
- |
-| Student ID | bitsom_ftai_260187 |
-| Public GitHub Repository | quickpay-fintech-assignment |
+| Student ID | bitsom_ftai_260187
+| Public GitHub Repository | quickpay-fintech-assignment
 
 ---
 
@@ -16,11 +15,11 @@ QuickPay Fintech Data Analyst Assignment
 
 | Task | Tool / Language |
 |---|---|
-| Part 1 — Data Cleaning & Business Logic | Python 3 · Pandas · openpyxl |
-| Part 2 — SQL Business Analysis | SQLite via Python `sqlite3` |
-| Part 3 — Reconciliation Workflow | Python 3 · Pandas |
-| Part 4 — JSON Normalization | Python 3 · Pandas · `json` |
-| Part 5 — Dashboard Visualization | Google Looker Studio |
+| Part 1 - Data Cleaning & Business Logic | Python 3 · Pandas · openpyxl |
+| Part 2 - SQL Business Analysis | SQLite via Python `sqlite3` |
+| Part 3 - Reconciliation Workflow | Python 3 · Pandas |
+| Part 4 - JSON Normalization | Python 3 · Pandas · `json` |
+| Part 5 - Dashboard Visualization | Google Looker Studio |
 
 ---
 
