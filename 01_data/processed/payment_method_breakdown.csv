@@ -1,0 +1,5 @@
+payment_method,Transactions,Total_GMV_USD,Captured_GMV_USD,Avg_Amount_USD
+Card,13,52972.0,34283.0,4074.77
+NetBanking,3,15306.0,11709.0,5102.0
+UPI,9,34397.5,28527.0,3821.94
+Wallet,5,13404.5,7836.5,2680.9

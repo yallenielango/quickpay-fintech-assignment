@@ -1,0 +1,2 @@
+transaction_id,transaction_date,status_ledger,status_gateway,issue
+R005,2026-03-03,success,failed,Status mismatch between Ledger and Gateway

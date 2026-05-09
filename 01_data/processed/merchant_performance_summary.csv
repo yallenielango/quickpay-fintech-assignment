@@ -1,0 +1,6 @@
+merchant_name,merchant_category,gateway_region,Transactions,Captured_GMV_USD,Total_GMV_USD,Avg_Risk,Chargebacks
+Alpha Mart,Grocery,APAC,11,29984.5,40812.0,61.18,1
+Beta Stores,Electronics,APAC,11,33431.0,41782.0,69.36,1
+City Pharma,Healthcare,EU,2,8640.0,8640.0,40.0,0
+Delta Travels,Travel,US,4,10300.0,14600.0,48.75,1
+Eco Home,Home,EU,2,0.0,10246.0,54.5,1
